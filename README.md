@@ -2,6 +2,6 @@
 
 **This is the frontend repository**
 
->_ Here you gonna find my codding history!
+> _Here you gonna find my codding history!_
 
 _**README is under construction**_
